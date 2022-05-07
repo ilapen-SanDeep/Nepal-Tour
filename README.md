@@ -43,7 +43,7 @@ gap: 10px(row) 20px(column);
 ```css
 box-shadow: 2px(top-bottom) 4px(left-right) 8px(radius) rgba(0,0,0,0.3);
 ```
-- Basic Website([preview])(https://steady-taiyaki-c08a55.netlify.app/)
+- Basic Website  [preview](https://steady-taiyaki-c08a55.netlify.app/)
      <br><img src='images/tour1.JPG' ><br><br>
      <br><br><img src ='images/tour2.JPG' ><br><br>
      <br><br><img src ='images/tour3.JPG' ><br><br>
