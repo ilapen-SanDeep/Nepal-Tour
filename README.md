@@ -47,7 +47,4 @@ box-shadow: 2px(top-bottom) 4px(left-right) 8px(radius) rgba(0,0,0,0.3);
      <br><img src='images/tour1.JPG' ><br><br>
      <br><br><img src ='images/tour2.JPG' ><br><br>
      <br><br><img src ='images/tour3.JPG' ><br><br>
-<<<<<<< HEAD
-=======
 
->>>>>>> 574b8f9c0ab6023d30769575aab20e83c8caefe3
